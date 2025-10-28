@@ -10,9 +10,11 @@
 ###
 
 <div align="left" style="font-size: 17px;">
-  I'm a DevOps Engineer who enjoys building smooth workflows, automating the messy stuff, and keeping things running behind the scenes.<br>
-  Lately, I’ve been working with Kubernetes, CI/CD, and cloud-native tools, learning how to ship faster without breaking everything (too often).<br>
-  When I’m not in the terminal, you’ll probably find me scripting little tools, tweaking configs, or exploring what’s next in DevOps. 🐧💫
+I’m a DevOps Engineer who loves automating workflows and building systems that actually make development smoother.
+Right now, I’m geeking out over Kubernetes, CI/CD pipelines, and how cloud infrastructure fits together behind the scenes.
+When I’m not in the terminal, I’m probably writing scripts, tweaking configs, or testing tools I definitely didn’t need. 🐧💫
+
+Let’s connect and maybe deploy something awesome together! 🚀
 </div>
 
 ###

@@ -9,7 +9,11 @@
 
 ###
 
-<p align="left">I'm a DevOps Engineer who enjoys building smooth workflows, automating the messy stuff, and keeping things running behind the scenes.<br>Lately, I’ve been working with Kubernetes, CI/CD, and cloud-native tools, learning how to ship faster without breaking everything (too often).<br>When I’m not in the terminal, you’ll probably find me scripting little tools, tweaking configs, or exploring what’s next in DevOps. 🐧💫</p>
+<div align="left" style="font-size: 17px;">
+  I'm a DevOps Engineer who enjoys building smooth workflows, automating the messy stuff, and keeping things running behind the scenes.<br>
+  Lately, I’ve been working with Kubernetes, CI/CD, and cloud-native tools, learning how to ship faster without breaking everything (too often).<br>
+  When I’m not in the terminal, you’ll probably find me scripting little tools, tweaking configs, or exploring what’s next in DevOps. 🐧💫
+</div>
 
 ###
 

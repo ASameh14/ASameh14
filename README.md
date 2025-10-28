@@ -3,8 +3,9 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://github.com/user-attachments/assets/44bea09e-649b-43ca-be36-58c25da88ff7"  />
+  <img src="https://github.com/user-attachments/assets/44bea09e-649b-43ca-be36-58c25da88ff7" width="100%" />
 </div>
+
 
 ###
 

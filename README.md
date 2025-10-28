@@ -9,13 +9,12 @@
 
 ###
 
-<div align="left" style="font-size: 17px;">
-I’m a DevOps Engineer who loves automating workflows and building systems that actually make development smoother.
-Right now, I’m geeking out over Kubernetes, CI/CD pipelines, and how cloud infrastructure fits together behind the scenes.
-When I’m not in the terminal, I’m probably writing scripts, tweaking configs, or testing tools I definitely didn’t need. 🐧💫
+I'm a **DevOps Engineer** who loves automating workflows and building systems that make development smoother and more reliable.  
+Currently, I’m exploring **Kubernetes**, **CI/CD pipelines**, and **cloud infrastructure** — figuring out how to ship faster without breaking everything (too often).  
+When I’m not in the terminal, I’m probably scripting small tools, tweaking configs, or experimenting with new automation ideas. 🐧💫  
 
-Let’s connect and maybe deploy something awesome together! 🚀
-</div>
+Let's connect and maybe deploy something together! 🚀
+
 
 ###
 
